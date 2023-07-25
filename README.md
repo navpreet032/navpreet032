@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebD & Software Development
 - 🌱 I’m currently learning WebD,Software development
 - 💞️ I’m looking to collaborate on Software development
-- 📫 How to reach me (mail: nav032@proton.me)
+- 📫 How to reach me (mail: preetpannu032@gmail.com)
 
 <!---
 navpreet032/navpreet032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
